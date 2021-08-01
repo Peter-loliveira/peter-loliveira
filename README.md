@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
+
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-loliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-loliveira&layout=compact&langs_count=7&theme=dracula"/>
