@@ -18,7 +18,7 @@
         <a href="https://www.linkedin.com/in/peter-loliveira/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-  <h4>Este layout foi criado com as dicas contidas no <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&pp=sAQA">vídeo</a> da <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&pp=sAQA">Rafaella Ballerini</a></h4>
+  <h5>Este layout foi criado com as dicas contidas no <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&pp=sAQA">vídeo</a> da <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></h5>
 
     
   </div>
