@@ -9,7 +9,7 @@
     <h4>Mesmo tendo anos de experiencias na área de TI, estou agora entrando neste universo</h4>
     <h4>Espero que apreciem!</h4>
     <h3>Meus Contatos:</h3>
-        <a href="https://api.whatsapp.com/send/?phone=55071983775559" target="_blank">
+        <a href="https://api.whatsapp.com/send/?phone=5507199944-1701" target="_blank">
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
         <a href="mailto:peter.loliveira@gmail.com" target="_blank">
