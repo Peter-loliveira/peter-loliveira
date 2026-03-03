@@ -4,7 +4,7 @@
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-loliveira&layout=compact&langs_count=7&theme=dracula" />
     <h1>Bem Vindos!</h1>
-    <h3>Aqui vocês terão uma ideia de meu atual desenvolvimento no mundo DEV.</h3>
+    <h3>Atualmente na área de Corretagem de imóveis..</h3>
     <h4>Mesmo tendo anos de experiencias na área de TI, estou agora entrando neste universo</h4>
     <h4>Espero que apreciem!</h4>
     <h3>Meus Contatos:</h3>
